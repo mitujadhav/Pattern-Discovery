@@ -1,0 +1,4 @@
+2851:Fast Food;Restaurants
+2416:American (Traditional);Restaurants
+2851:Restaurants;Fast Food
+2416:Restaurants;American (Traditional)
