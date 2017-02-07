@@ -1,4 +1,15 @@
-2851:Fast Food;Restaurants
-2416:American (Traditional);Restaurants
-2851:Restaurants;Fast Food
-2416:Restaurants;American (Traditional)
+550:Fast Food;Restaurants
+578:Food;Ice Cream & Frozen Yogurt
+680:Auto Repair;Automotive
+680:Restaurants;Italian
+697:Burgers;Fast Food,Restaurants
+709:Food;Grocery
+716:Home Services;Real Estate;Apartments
+994:Chinese;Restaurants
+997:Hair Salons;Beauty & Spas
+1061:Hotels & Travel;Event Planning & Services;Hotels
+1110:Beauty & Spas;Nail Salons
+1123:Food;Coffee & Tea
+1252:Pizza;Restaurants
+1634:Mexican;Restaurants
+                                                                                  
