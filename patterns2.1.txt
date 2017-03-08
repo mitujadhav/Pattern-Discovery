@@ -1,0 +1,32 @@
+1442:Active Life;Fitness & Instruction
+1593:American (New);Restaurants
+2416:American (Traditional);Restaurants
+1716:Auto Repair;Automotive
+1115:Bakeries;Food
+1369:Breakfast & Brunch;Restaurants
+1002:Cafes;Restaurants
+1629:Chinese;Restaurants
+2199:Coffee & Tea;Food
+1694:Doctors;Health & Medical
+2101:Food;Restaurants
+1424:Grocery;Food
+2091:Hair Salons;Beauty & Spas
+1586:Home & Garden;Shopping
+1018:Ice Cream & Frozen Yogurt;Food
+1848:Italian;Restaurants
+848:Japanese;Restaurants
+2515:Mexican;Restaurants
+1667:Nail Salons;Beauty & Spas
+870:Pet Services; Pets
+2657:Pizza;Restaurants
+1424:Real Estate;Home Services
+2364:Sandwiches;Restaurants
+1150:Speciality Food;Food
+798:Sushi Bars:Restaurants
+1138:Fashion;Women's Clothing;Shopping
+818:Sports Bars;Bars;Nightlife
+774:Bergers;Fast Food;Restaurnats
+874:Pub;Bars;Nightlife
+893:Nightlife;Bars;Restaurants
+823:General Dentistry;Destists;Health & Medical
+
